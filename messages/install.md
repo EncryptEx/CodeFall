@@ -1,4 +1,4 @@
-#CodeFall Color Scheme
+# CodeFall Color Scheme  
 Codefall is a dark Color-Scheme for Sublime Text.
 
 
@@ -14,4 +14,4 @@ Codefall is a dark Color-Scheme for Sublime Text.
 1. Download the desired **`CodeFall Color Scheme`** file.
 2. Browse Packages from the Command Palette (via `Preferences > Browse packages` from the main menu).
 3. Copy the **`CodeFall Color Scheme`** file to `Packages/User/`.
-
+	
