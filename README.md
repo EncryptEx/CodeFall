@@ -21,4 +21,4 @@
 3. Copy the **`CodeFall Color Scheme`** file to `Packages/User/`.
 
 
-<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></p>
