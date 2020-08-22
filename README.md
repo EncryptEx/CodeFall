@@ -6,19 +6,23 @@
 	<img src="https://img.shields.io/github/languages/top/EncryptEx/CodeFall"/>
 	<img src="https://img.shields.io/github/last-commit/EncryptEx/CodeFall?color=red"/>
 	<img src="https://img.shields.io/badge/License-MIT-green"/>
+	<img src="https://img.shields.io/packagecontrol/dt/CodeFall%2520Color%2520Scheme?label=Downloads"/>
 
-## Installation 
-### Via Package Control
-
-1. Make sure you already have [Package Control](https://packagecontrol.io/installation) installed.
-2. Choose Install Package from the Command Palette (via `Tools > Coomand Palette` from the main menu).
-3. Select **`CodeFall Color Scheme`** and press <kbd>Enter</kbd>.
-
-### or Manual Installation
-
-1. Download the desired **`CodeFall Color Scheme`** file.
-2. Browse Packages from the Command Palette (via `Preferences > Browse packages` from the main menu).
-3. Copy the **`CodeFall Color Scheme`** file to `Packages/User/`.
-
+<h2>Installation </h2>
+<h3> Via Package Control</h3>
+<br>
+<ol>
+	<li>Make sure you already have <a href="https://packagecontrol.io/installation">Package Control</a> installed.</li>
+	<li>Choose Install Package from the Command Palette (via <code>Tools > Coomand Palette</code> from the main menu).</li>
+	<li>Select <b>CodeFall Color Scheme</b> and press <kbd>Enter</kbd>.</li>
+</ol>
+<br><br>
+<h3> or Manual Installation</h3>
+<br>
+<ol>
+	<li>Download the desired <b>CodeFall Color Scheme</b> file.</li>
+	<li>Browse Packages from the Command Palette (via <code>Preferences > Browse packages</code> from the main menu).</li>
+	<li>Copy the <b>CodeFall Color Scheme</b> to <code>Packages/User/</code>>
+</ol>
 
 <p align="center"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></p>
