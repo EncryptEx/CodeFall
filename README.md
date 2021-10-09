@@ -25,4 +25,4 @@
 	<li>Copy the <b>CodeFall Color Scheme</b> to <code>Packages/User/</code>>
 </ol>
 
-<p align="center"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></p>
+<p align="center"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></p>
